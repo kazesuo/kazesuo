@@ -63,8 +63,6 @@ and improving one project at a time.
 <!--
 =====================================================================
   SECTION: TECH STACK
-  Icons from "skillicons.dev". Add/remove short codes in the URL
-  (comma-separated, no spaces) to change what's shown.
 =====================================================================
 -->
 
