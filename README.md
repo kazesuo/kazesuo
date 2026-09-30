@@ -18,7 +18,6 @@
 
 <br/>
 
-<!-- Small profile-view badge row (no stats/counters — just quick links) -->
 <a href="https://www.linkedin.com/in/codeanddata/">
   <img src="https://img.shields.io/badge/LinkedIn-Kazesuo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: Kazesuo" />
 </a>
