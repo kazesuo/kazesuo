@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi%2C%20I'm%20Kazesuo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&descSize=20" alt="Animated header banner with waving gradient background introducing Kazesuo" />
 
 <!-- 
-  ANIMATED TYPING TEXT
+text animated
 -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building.+Learning.+Improving.;Software+Development;Data+Analytics;AI+%26+Machine+Learning" alt="Typing animation showing rotating text" />
